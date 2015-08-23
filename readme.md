@@ -1,0 +1,1 @@
+This is a Game of Bots Bot.
