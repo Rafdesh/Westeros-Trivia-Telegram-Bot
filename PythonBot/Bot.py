@@ -67,7 +67,7 @@ arrayEnd = len(QuestionsList) - 1
 i = random.randint(0, arrayEnd)
 
 
-user_id = int(33843334)
+user_id = int(########)
 last_update_id = 0 #last processed command
 
 
@@ -112,16 +112,3 @@ updates = bot.get_updates(offset=None,limit=2,timeout=None).wait()
 for update in updates:
     gaga = updates[0][0]
     print(gaga)
-
-
-##############################################################################
-
-# ACCORDING TO BOT ID:
-
-# Eklavya = 33843334
-# Bot-en-stein = -39649874
-# 2 idiots = -20170726
-# Los Barbokerinos = -7635063
-# Liridon = 48389492
-# Karan = 61770511
-
